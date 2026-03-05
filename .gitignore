@@ -26,3 +26,4 @@ uv.lock
 /app/uploaded_images
 /app/backend/models/__pycache__
 *.pyc
+.venv
